@@ -1,1 +1,1 @@
-# 100-Max-challenge
+# 100-challenge
